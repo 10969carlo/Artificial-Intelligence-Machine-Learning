@@ -58,4 +58,52 @@ The dataset is small and created for this project:
 ---
 
 ## Example Terminal Interaction
+=== Music Mood Predictor ===
+Enter your song features:
+Tempo (BPM): 130
+Energy (0-10): 7
+Positivity (0-10): 5
+
+Prediction: Happy
+Press Enter to exit...
+
+---
+
+## How to Run
+1. Make sure Python 3 is installed.  
+2. Install scikit-learn:
+3. Open a terminal and navigate to the folder containing the script:
+4. Run the program:
+5. Enter the song features when prompted and see the predicted mood.
+
+---
+
+## Accuracy
+The accuracy depends on the small dataset. To improve accuracy, you can:
+
+- Add more songs to the dataset  
+- Adjust feature values  
+- Try different algorithms like KNN or Decision Tree  
+
+Even with a small dataset, this project demonstrates how supervised learning works.
+
+---
+
+## Notes
+I only created this for educational purpose to demonstrate basic supervised machine learning in Python. That's why it may contain limitations for the program.
+
+## Limitations
+
+- **Small dataset:** The program uses only 10 songs, so predictions may not be reliable for larger or more varied sets of songs.  
+- **Limited features:** Only tempo, energy, and positivity are used. Other important factors, like genre, instruments, or detailed lyrics, are not considered.  
+- **Simple algorithm:** Logistic Regression is used, which works for this small dataset but may not perform well on more complex datasets.  
+- **Binary prediction:** The program only predicts Happy or Sad moods and cannot detect other emotions.  
+- **Not fully accurate:** The model is not 100% accurate. Because it is trained on a small dataset and simplified features, it may sometimes give the wrong prediction.  
+- **Manual input only:** Users must enter the features manually; it cannot automatically analyze songs from audio files.
+
+
+
+
+
+
 
