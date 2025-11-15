@@ -58,15 +58,13 @@ The dataset is small and created for this project:
 ---
 
 ## Example Terminal Interaction
-```console
-=== Music Mood Predictor ===
-Enter your song features:
-Tempo (BPM): 130
-Energy (0-10): 7
-Positivity (0-10): 5
-
-Prediction: Happy
-Press Enter to exit...```
+**=== Music Mood Predictor ===**
+**Enter your song features:**
+**Tempo (BPM): 130**
+**Energy (0-10): 7**
+**Positivity (0-10): 5**
+**Prediction: Happy**
+**Press Enter to exit...**
 
 ---
 
