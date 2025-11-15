@@ -58,6 +58,7 @@ The dataset is small and created for this project:
 ---
 
 ## Example Terminal Interaction
+```console
 === Music Mood Predictor ===
 Enter your song features:
 Tempo (BPM): 130
