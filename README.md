@@ -66,7 +66,7 @@ Energy (0-10): 7
 Positivity (0-10): 5
 
 Prediction: Happy
-Press Enter to exit...
+Press Enter to exit...```
 
 ---
 
